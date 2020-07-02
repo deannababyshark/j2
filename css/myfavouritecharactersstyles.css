@@ -1,0 +1,89 @@
+body {
+  background-color:#32e0c4 ;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: red;
+  font-size: 35px;
+}
+p {
+  color: red;
+  font-size: 30px;
+}
+video {
+  position: absolute;
+  left: -826px;
+  top: 15px;
+  height: 435px;
+  width:  850px;
+  border-color: white;
+  border-width: 20px;
+  border-style: groove;
+}
+.moana {
+  position: absolute;
+  top: 130px;
+  right: 440px;
+}
+
+.raven {
+  position: absolute;
+  height: 325px;
+  width: 310px;
+  top: 5px;
+  left: 5px;
+}
+
+
+.mia {
+
+  position: absolute;
+  top: 400px;
+  left: 20px;
+}
+
+.connie {
+  height: 325px;
+  width: 310px;
+  position: absolute;
+  top: 55px;
+  right: 70px;
+}
+
+.petty {
+  position: absolute;
+  height: 260px;
+  width: 300px;
+  top: 400px;
+  right: 70px;
+}
+
+a:hover {
+  color: blue;
+}
+
+.vac {
+  color: red;
+  position: absolute;
+  bottom: 130px;
+  left: 700px;
+  font-size: 20px;
+
+}
+
+.dgr {
+  color: red;
+  position: absolute;
+  bottom: 100px;
+  left: 660px;
+  font-size: 20px;
+}
+.home {
+  color: red;
+  position: absolute;
+  bottom: 73px;
+  left: 730px;
+  font-size: 20px;
+
+}
